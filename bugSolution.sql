@@ -1,0 +1,1 @@
+To fix this, either create the function in the database if it's custom-defined, or correct any typos in the function name in the SQL query.  If the function is from an extension, ensure it's installed and enabled.
