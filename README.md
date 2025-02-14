@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common SQL error: using an undefined function in a query. The `bug.sql` file shows the problematic query, while `bugSolution.sql` provides the corrected version. The error typically results in a syntax error or runtime exception. Ensure all functions used in your SQL queries are properly defined within the database system.
