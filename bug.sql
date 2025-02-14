@@ -1,0 +1,1 @@
+The SQL query uses a function that's not defined in the database system.  This can happen if you're using a custom function that's not been created or if you have a typo in the function name.
